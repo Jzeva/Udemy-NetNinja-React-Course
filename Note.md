@@ -17,4 +17,5 @@ write React in that part.
 Before the end of the script,write:
 
 ```Html
-    ReactDOM.render(the component you wanna render, the place you wanna render the component to, it could be:document.get ElementById(''banner))
+    ReactDOM.render(the component you wanna render, 
+    the place you wanna render the component to, it could be:document.get ElementById(''banner))
